@@ -1,1 +1,3 @@
-# Vanilla-JS
+# Native JS
+
+Пример использования Native JS.
